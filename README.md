@@ -1,2 +1,1 @@
 # adlermed
-Site layout
